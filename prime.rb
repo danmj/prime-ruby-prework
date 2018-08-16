@@ -1,7 +1,7 @@
 # Add  code here!
 def prime?(integer)
-  (2..integer).each do |divisor|
-    if integer % divisor == 0
+  (2..integer).each do |y|
+    if integer % y == 0
       return false
     end
   end
