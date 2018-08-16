@@ -1,3 +1,4 @@
 # Add  code here!
 def prime?(x)
-  (1..integer).each do 
+  (1..integer).each do |y|
+    
