@@ -1,3 +1,3 @@
 # Add  code here!
 def prime?(x)
-  (1..integer)
+  (1..integer).each do 
